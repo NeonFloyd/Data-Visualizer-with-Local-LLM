@@ -45,8 +45,8 @@ Many data science projects rely on cloud-based APIs to generate insights, which 
 
 ```
 datasciencerepo/
-├── datavisualizer.py   # Core analysis and visualization logic
-├── app.py              # Streamlit dashboard
+├── cleandatavisualizer.py   # Core analysis and visualization logic
+├── cleanapp.py              # Streamlit dashboard
 ├── figures/            # Auto-generated charts
 ├── sample_data/        # Example CSVs
 ├── requirements.txt    # Python dependencies
