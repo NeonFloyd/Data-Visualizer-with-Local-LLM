@@ -47,11 +47,12 @@ Many data science projects rely on cloud-based APIs to generate insights, which 
 datasciencerepo/
 ├── cleandatavisualizer.py   # Core analysis and visualization logic
 ├── cleanapp.py              # Streamlit dashboard
-├── figures/            # Auto-generated charts
-├── sample_data/        # Example CSVs
-├── requirements.txt    # Python dependencies
-├── .env.example        # Example environment variables
-└── README.md           # Documentation
+├── figures/                 # Auto-generated charts
+├── exampleoutput.pdf        # Example output
+├── sample_data/             # Example CSVs
+├── requirements.txt         # Python dependencies
+├── .env.example             # Example environment variables
+└── README.md                # Documentation
 ```
 
 ---
